@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "mecom", "mecom.phpproj", "{8A722948-F913-4EAF-A1A9-BB87B11C6609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A722948-F913-4EAF-A1A9-BB87B11C6609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A722948-F913-4EAF-A1A9-BB87B11C6609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A722948-F913-4EAF-A1A9-BB87B11C6609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A722948-F913-4EAF-A1A9-BB87B11C6609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0B6FC91-B2BE-40AE-9762-510798098BDC}
+	EndGlobalSection
+EndGlobal
